@@ -14,70 +14,70 @@ const DataTable = () => {
                 <tbody>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Barry Allen</td>
+                        <td>Akirus</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Barry Allen</td>
+                        <td>Zeus</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Barry Allen</td>
+                        <td>Max</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Barry Allen</td>
+                        <td>Lineu</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Barry Allen</td>
+                        <td>Nevil</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Barry Allen</td>
+                        <td>Menezes Parente</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Barry Allen</td>
+                        <td>Samara</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Barry Allen</td>
+                        <td>Queres Leite</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Barry Allen</td>
+                        <td>Judilete</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
-                        <td>Barry Allen</td>
+                        <td>Monster High</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
