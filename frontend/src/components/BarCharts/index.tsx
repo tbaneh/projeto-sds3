@@ -45,7 +45,7 @@ useEffect(() => {
                 },  
                 series: [
                     {
-                        name: "% Sucess",
+                        name: "% Success",
                         data: mySeries                  
                     }
                 ]
